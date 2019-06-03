@@ -1,6 +1,7 @@
-// This is a testxxxxxxxxx
+// This is a test
 void main()
 {
-    int a = 1;
+    int a = 3;
     return;
 }
+
